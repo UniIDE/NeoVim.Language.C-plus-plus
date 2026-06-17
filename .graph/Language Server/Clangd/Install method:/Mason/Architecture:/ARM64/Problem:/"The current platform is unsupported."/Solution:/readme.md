@@ -1,8 +1,10 @@
 # neovim/nvim-lspconfig
 https://github.com/mason-org/mason.nvim/issues/1578#issuecomment-2927987751
+- https://github.com/mason-org/mason.nvim/issues/1578#issuecomment-3292680782
 
 Quote:
 >It seems possible to ask Mason not to try to install its own clangd by adding the mason = false option to the clangd lsp settings.
+
 
 # Generate( mason-receipt.json )
 https://github.com/mason-org/mason.nvim/issues/1578#issuecomment-2455253723
@@ -20,6 +22,7 @@ echo '{"schema_version":"1.1","primary_source":{"type":"local"},"name":"clangd",
 
 # Copy & symlink working install from x86
 https://github.com/mason-org/mason.nvim/issues/1578#issuecomment-2034607549
+- https://github.com/mason-org/mason.nvim/issues/1578#issuecomment-2725266573
 
 quote:
 >Update: I copied the directory ~/.local/share/nvim/mason/packages/clangd from my x86 machine and then I had to trick mason and change the sim link to the clangd installed with the system.
