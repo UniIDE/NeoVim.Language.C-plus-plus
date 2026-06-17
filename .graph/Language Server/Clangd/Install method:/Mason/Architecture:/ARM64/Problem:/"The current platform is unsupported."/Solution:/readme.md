@@ -1,3 +1,9 @@
+# neovim/nvim-lspconfig
+https://github.com/mason-org/mason.nvim/issues/1578#issuecomment-2927987751
+
+Quote:
+>It seems possible to ask Mason not to try to install its own clangd by adding the mason = false option to the clangd lsp settings.
+
 # Generate( mason-receipt.json )
 https://github.com/mason-org/mason.nvim/issues/1578#issuecomment-2455253723
 
